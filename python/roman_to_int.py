@@ -1,3 +1,4 @@
+#Takes 20ms and beats 92.83% of solutions as of 8/5/2024
 class Solution(object):
     def roman_to_int(self, s):
         """
