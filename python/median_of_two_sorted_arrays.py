@@ -1,3 +1,4 @@
+#Solution takes 59ms and beats 74.81% of entries as of 8/6/2024
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
         """
